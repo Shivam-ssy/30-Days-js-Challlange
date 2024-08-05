@@ -1,0 +1,40 @@
+
+        .main{
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+        }
+        #card{
+            background: #a1e10a;
+            padding: 2rem;
+            border-radius: 1rem;
+            display: flex;
+            flex-direction: column;
+        }
+        #card img{
+            height: 15rem;
+        }
+    .color{
+        background-color: black;
+    }
+    .style{
+        color:white;
+        font-weight: bold;
+        padding: 15px;
+        margin-top: 10px;
+        cursor: pointer;
+        width: fit-content;
+    }
+     a{
+        align-self:flex-end;
+    }
+    .color2{
+        background-color: brown;
+    }
+    #simple{
+        border:#e1920a 1px solid;
+        padding-block: 10px;
+        padding-inline: 5px;
+    }
